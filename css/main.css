@@ -69,7 +69,18 @@ p {
     height: 225px;
     position: absolute;
     background-color: black;
+}
 
+#footer{
+    display: flex;
+    justify-content: flex-end;
+    position: absolute;
+}
+.foot {
+    margin-top:1675px ;
+    width: 100%;
+    position: absolute;
+    background-color: black;
 }
     
 
